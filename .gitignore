@@ -8,7 +8,7 @@ logs/
 # *.ipynb
 *.sh
 *.csv
-*.ipynb
+# *.ipynb
 **/__pycache__/
 evaluate.py
 evaluate_easy_with_sgmsecrp.py
